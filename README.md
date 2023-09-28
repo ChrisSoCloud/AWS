@@ -1,2 +1,2 @@
-# Cloud 
-Repository of projects in the cloud.
+# AWS Cloud EC2 & Instance Setup
+
